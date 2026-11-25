@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:57:41.224Z",
+  "slug": "physioa",
+  "name": "Physiotherapy Associates",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Physiotherapists",
+    "niche": "physiotherapists",
+    "group": "Health & medical"
+  },
+  "contact": {
+    "phone": "+6433897196",
+    "email": "admin@physioa.co.nz",
+    "address": "86A Wainoni Rd, Christchurch",
+    "hours": [
+      "Monday – Friday: 8:00am – 6:00pm"
+    ]
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/988584184345615",
+    "instagram": "https://www.instagram.com/physiotherapy_associates"
+  },
+  "about": {
+    "overview": "Expert physiotherapy care for sports injuries, post-surgical rehabilitation, musculoskeletal pain, workplace injuries, and long-term recovery.",
+    "tagline": "Physiotherapy Associates",
+    "services": [
+      "Helping You Move Better And Feel Stronger.",
+      "Why Choose Us?",
+      "Our Services",
+      "Musculoskeletal Injury Rehabilitation",
+      "Post Surgical Rehabilitation",
+      "Sports Injuries"
+    ]
+  },
+  "before": {
+    "url": "http://physioa.co.nz/",
+    "domain": "physioa.co.nz",
+    "finalUrl": "http://physioa.co.nz/",
+    "title": "Physiotherapy Associates | Christchurch",
+    "pages": 2,
+    "score": 49,
+    "assessedAt": "2026-11-11T14:13:52.433Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://physioa.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/physiotherapy-associates/",
+    "repoUrl": "https://github.com/tova-studio/physiotherapy-associates",
+    "generator": "claude",
+    "accent": "#1e40af",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:57:41.225Z"
+  }
+}
